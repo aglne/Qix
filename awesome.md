@@ -1,7 +1,6 @@
-##一些非常棒的资源
----
-**这是一个自己的资料集,主要是做一个资料整理.方便自己查阅**
----
+## 一些非常棒的资源
+
+#### 这是一个自己的资料集,主要是做一个资料整理.方便自己查阅
 
 * [《Hands-on Labs for Security Education》](http://www.cis.syr.edu/~wedu/seed/ )
 
@@ -59,7 +58,7 @@
 
 介绍:命令行的艺术,学习Linux命令的好资源,此外文中提到的[explain shell](http://explainshell.com/)很赞
 
-* [《C++ 资源》](http://codecloud.net/c-plus-plus-resource-2983.html)
+* [《C++ 资源》](https://github.com/jobbole/awesome-cpp-cn)
 
 介绍:涉及到了标准库、Web应用框架、人工智能、数据库、图片处理、机器学习、日志、代码分析等，C++程序员学习必备！
 
@@ -378,3 +377,11 @@
 * [《List of single-file C/C++ libraries》](https://github.com/nothings/single_file_libs)
 
 介绍:单个文件C/C++库指的是那些能移植到多个平台、32位或者64位、从C或者C++中调用、依赖最小的开源库，本文分门别类作了总结。
+
+* [《The System Design Primer》](https://github.com/donnemartin/system-design-primer)
+
+介绍:大规模系统设计指南.从入门到深入.系统架构师必读
+
+* [《Google Interview University》](https://github.com/jwasham/coding-interview-university)
+
+介绍:一套完整的学习手册帮助自己准备 Google 的面试

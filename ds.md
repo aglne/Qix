@@ -1,8 +1,7 @@
-##分布式系统(Distributed System)资料
+## 分布式系统(Distributed System)资料
 
----
-#####希望转载的朋友，你可以不用联系我．但是**一定要保留原文链接**，因为这个项目还在继续也在不定期更新．希望看到文章的朋友能够学到更多．
----
+##### 希望转载的朋友，你可以不用联系我．但是**一定要保留原文链接**，因为这个项目还在继续也在不定期更新．希望看到文章的朋友能够学到更多．
+
 
 * [《Reconfigurable Distributed Storage for Dynamic Networks》](http://sydney.edu.au/engineering/it/~gramoli/doc/pubs/OPODIS05.pdf)
 
@@ -771,7 +770,7 @@
 
 * [《A Distributed Systems Reading List》](https://dancres.github.io/Pages/)
 
-介绍:分布式系统论文阅读列表
+介绍:分布式系统论文阅读列表,此外推荐威斯康星大学麦迪逊分校计算机系分布式系统学习推荐[阅读列表](http://pages.cs.wisc.edu/~swift/classes/cs739-fa14/wiki/pmwiki.php/Main/ReadingList)
 
 * [《Distributed Systems Reading Group》](http://dsrg.pdos.csail.mit.edu/papers/)
 
@@ -799,4 +798,16 @@
 
 * [《Evolving Distributed Systems》](http://olivergierke.de/2016/10/evolving-distributed-systems/)
 
-介绍:推荐文章不断进化的分布式系统.
+介绍:推荐文章《不断演进的分布式系统》.
+
+* [《Ask HN: Recommendations for a book on Distributed Systems?》](https://news.ycombinator.com/item?id=13311124)
+
+介绍:HN上面关于分布式系统相关领域学习的书籍推荐.
+
+* [《SeaweedFS:A simple and highly scalable distributed file system》](https://github.com/chrislusf/seaweedfs)
+
+介绍:Golang开源项目,分布式文件存储系统SeaweedFS
+
+* [《The Design and Implementation of a Log-Structured File System》](https://web.stanford.edu/~ouster/cgi-bin/papers/lfs.pdf)
+
+介绍:论文推荐:设计并实现一个日志结构的文件系统.

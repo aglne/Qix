@@ -1,10 +1,9 @@
-##机器学习(Machine Learning)&深度学习(Deep Learning)资料(Chapter 2)
----
-#####注:机器学习资料[篇目一](https://github.com/ty4z2008/Qix/blob/master/dl.md)共500条,[篇目二](https://github.com/ty4z2008/Qix/blob/master/dl2.md)开始更新
----
----
-#####希望转载的朋友，你可以不用联系我．但是**一定要保留原文链接**，因为这个项目还在继续也在不定期更新．希望看到文章的朋友能够学到更多．此外:某些资料在中国访问需要梯子.
----
+## 机器学习(Machine Learning)&深度学习(Deep Learning)资料(Chapter 2)
+
+#### 注:机器学习资料[篇目一](https://github.com/ty4z2008/Qix/blob/master/dl.md)共500条,[篇目二](https://github.com/ty4z2008/Qix/blob/master/dl2.md)开始更新
+
+##### 希望转载的朋友，你可以不用联系我．但是**一定要保留原文链接**，因为这个项目还在继续也在不定期更新．希望看到文章的朋友能够学到更多．此外:某些资料在中国访问需要梯子.
+
 
 * [《Image Scaling using Deep Convolutional Neural Networks》](http://engineering.flipboard.com/2015/05/scaling-convnets/)
 
@@ -1253,3 +1252,63 @@
 * [《How To Get Into Natural Language Processing》](https://blog.ycombinator.com/how-to-get-into-natural-language-processing/)
 
 介绍: 自然语言处理(NLP)入门指南
+
+* [《Deep learning and the Schrödinger equation》](https://arxiv.org/abs/1702.01361)
+
+介绍:通过神经网络跳过数值方法求解薛定谔方程。
+
+* [《Recent Advances in Distributed Machine Learning》](http://www.dmtk.io/slides/distributedML-aaai2017.pdf)
+
+介绍:微软亚洲研究院的刘铁岩等人近日在AAAI 2017上做的有关优化以及大规模机器学习的Tutorial。很值得一看。里面对传统的优化算法，特别是一些理论特性以及分布式算法的相应理论特性都有一个比较详尽的总结。非常适合想快速了解这些领域的学者和工程师。另外，这个Tutorial还介绍了DMTK的一些情况，作为一个分布式计算平台的优缺点，还顺带比较了Spark和TensorFlow等流行框架。
+
+* [《Deep Learning Implementations and Frameworks (DLIF)》](https://sites.google.com/site/dliftutorial/)
+
+介绍:AAAI 2017的Tutorial，专门讲述了深度学习框架的设计思想和实现，比较若干种流行框架（Caffe、MXNet、TensorFlow、Chainer等）的性能和异同。 
+
+* [《Open Sourcing TensorFlowOnSpark: Distributed Deep Learning on Big-Data Clusters》](https://github.com/yahoo/TensorFlowOnSpark)
+
+介绍:雅虎开源基于spark与TensorFlow的分布式数据深度学习框架,博文[介绍](https://yahooeng.tumblr.com/post/157196488076/open-sourcing-tensorflowonspark-distributed-deep)
+
+* [《Deconstruction with Discrete Embeddings》](http://r2rt.com/deconstruction-with-discrete-embeddings.html)
+
+介绍:用离散嵌入解构模糊数据
+
+* [《Reliable Machine Learning in the Wild - NIPS 2016 Workshop》](https://sites.google.com/site/wildml2016nips/schedule)
+
+介绍:视频发布：自然场景可靠机器学习(NIPS 2016 Workshop)
+
+* [《A large-scale dataset of manually annotated audio events》](https://research.google.com/audioset/)
+
+介绍:Google发布大规模音频数据集
+
+* [《5 algorithms to train a neural network》](https://www.neuraldesigner.com/blog/5_algorithms_to_train_a_neural_network)
+
+介绍:训练神经网络的5种算法
+
+* [《Course notes for CS224N Winter17》](https://github.com/stanfordnlp/cs224n-winter17-notes)
+
+介绍:笔记：斯坦福CS224n深度学习NLP课程(2017)
+
+* [《Persontyle Workshop for Applied Deep Learning》](https://github.com/telecombcn-dl/2017-persontyle)
+
+介绍:伦敦深度学习研讨会资料
+
+* [《Understanding, generalisation, and transfer learning in deep neural networks》](https://blog.acolyer.org/2017/02/27/understanding-generalisation-and-transfer-learning-in-deep-neural-networks/)
+
+介绍:论文导读：深度神经网络理解、泛化与迁移学习,[acolyer blog](https://blog.acolyer.org/)上还有很多经典推荐可以阅读
+
+* [《An Introduction to MCMC for Machine Learning》](http://www.cs.princeton.edu/courses/archive/spr06/cos598C/papers/AndrieuFreitasDoucetJordan2003.pdf)
+
+介绍:面向机器学习的马尔科夫链蒙特卡洛(MCMC)
+
+* [《Awesome Deep learning papers and other resources》](https://github.com/endymecy/awesome-deeplearning-resources)
+
+介绍:深度学习论文与资源大列表(论文、预训练模型、课程、图书、软件、应用、相关列表等)
+
+* [《Datasets for Natural Language Processing》](https://github.com/karthikncode/nlp-datasets)
+
+介绍:自然语言处理NLP数据集列表
+
+* [《Machine Learning for Software Engineers》](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+
+介绍:软件工程师的机器学习
